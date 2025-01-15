@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kS91640XnweoBJBgcdjUcxcqpWGeXDixX1cVwx6z9PcF8tc/sutr7NNzMa3Z12oP8o+K+owhbFK9wxLtYrsBCw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\luisf\\OneDrive\\Área de Trabalho\\Projetos\\hint2o\\hint2o\\hint2o.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\luisf\\.nuget\\packages\\hardcodet.notifyicon.wpf\\2.0.1\\hardcodet.notifyicon.wpf.2.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
