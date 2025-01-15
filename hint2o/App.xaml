@@ -4,6 +4,6 @@
              xmlns:local="clr-namespace:hint2o"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
-         
+        
     </Application.Resources>
 </Application>
