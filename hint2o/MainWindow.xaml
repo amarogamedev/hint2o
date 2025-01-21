@@ -5,6 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:hint2o"
         mc:Ignorable="d"
+        Icon="icon.ico"
         Title="hint2o" Height="180" Width="250">
     <Grid>
         <StackPanel VerticalAlignment="Top" HorizontalAlignment="Center" Height="100" Margin="0,25,0,0">

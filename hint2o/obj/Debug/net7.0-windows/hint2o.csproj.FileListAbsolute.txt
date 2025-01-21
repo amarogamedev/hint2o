@@ -21,3 +21,5 @@ C:\Users\luisf\OneDrive\Área de Trabalho\Projetos\hint2o\hint2o\obj\Debug\net7.
 C:\Users\luisf\OneDrive\Área de Trabalho\Projetos\hint2o\hint2o\bin\Debug\net7.0-windows\Hardcodet.NotifyIcon.Wpf.dll
 C:\Users\luisf\OneDrive\Área de Trabalho\Projetos\hint2o\hint2o\obj\Debug\net7.0-windows\hint2o.csproj.AssemblyReference.cache
 C:\Users\luisf\OneDrive\Área de Trabalho\Projetos\hint2o\hint2o\obj\Debug\net7.0-windows\hint2o.csproj.CopyComplete
+C:\Users\luisf\OneDrive\Área de Trabalho\Projetos\hint2o\hint2o\bin\Debug\net7.0-windows\icon.ico
+C:\Users\luisf\OneDrive\Área de Trabalho\Projetos\hint2o\hint2o\obj\Debug\net7.0-windows\hint2o_Content.g.cs

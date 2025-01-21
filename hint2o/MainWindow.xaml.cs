@@ -19,7 +19,7 @@ namespace hint2o
 
             notifyIcon = new NotifyIcon
             {
-                Icon = System.Drawing.SystemIcons.Information,
+                Icon = new System.Drawing.Icon("icon.ico"),
                 Visible = true
             };
 
@@ -40,7 +40,7 @@ namespace hint2o
             }
 
             timer.Stop();
-            timer = new System.Timers.Timer(minuteInterval * 60 * 100); //alterar pra 1000 de volta dps
+            timer = new System.Timers.Timer(minuteInterval * 60 * 1000);
             timer.Elapsed += TimerElapsed;
             timer.Start();
 
