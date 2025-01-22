@@ -47,6 +47,12 @@ namespace hint2o
             System.Windows.MessageBox.Show($"reminding you in " + minuteInterval + (minuteInterval > 1 ? " minutes!" : " minute!"), "success");
         }
 
+        private void stopTimerClick(object sender, RoutedEventArgs e)
+        {
+            timer.Stop();
+            System.Windows.MessageBox.Show("timer stopped!");
+        }
+
         private void TimerElapsed(object sender, ElapsedEventArgs e)
         {
             System.Windows.Application.Current.Dispatcher.Invoke(() =>
